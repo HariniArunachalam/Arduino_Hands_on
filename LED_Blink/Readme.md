@@ -1,4 +1,4 @@
-# Day 1: LED Blink
+# LED Blink
 
 ## Components:
 - Arduino Uno
